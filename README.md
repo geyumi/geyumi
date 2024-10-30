@@ -21,6 +21,15 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geyumi&show_icons=true&locale=en&layout=compact" alt="geyumi" /></p>
 
+<h3 align="left">Achievements</h3>
+<ul>
+<li><a href="https://www.coursera.org/account/accomplishments/verify/YFGTH4A9T6FG">AI Foundations for Everyone - Coursera</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/verify/BZZT2N2Z3D4A">Building AI Powered Chatbots Without Programming - Coursera</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/verify/7FZ4YXSAB6MC">Fundamentals of Predictive Project Management - PMI</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/verify/FRQX28S6WDYX">Microsoft Security, Compliance, and Identity Fundamentals - Coursera</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/verify/7DXY4LAXF2AC">Describe Microsoft Security, Compliance, and Identity Fundamentals - Coursera</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/verify/ZZTT92B7BF8L">Foundations of Project Management - University of Moratuwa</a></li>
+</ul>
 
 <details>	
  <summary><b>GSSOC Badges </b></summary><br>
