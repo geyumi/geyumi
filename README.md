@@ -6,6 +6,10 @@
 <h3 align="left">🔭 Current Project</h3>
 <p>I’m currently working on <strong>Predictive Maintenance Project</strong>, which involves leveraging machine learning techniques to predict equipment failures.</p>
 
+- 🌱 I’m currently learning **ELK Stack, Network Security**
+
+- 📫 How to reach me **geyumisrisara@gmail.com**
+  
 <h3 align="left">🎓 Achievements</h3>
 <ul>
     <li><strong>Microsoft Security, Compliance, and Identity Fundamentals</strong> - Completed certification</li>
@@ -16,14 +20,7 @@
 <ul>
     <li>English (Fluent)</li>
     <li>Sinhala (Native)</li>
-    <li>Tamil (Basic)</li>
 </ul>
-
-- 🔭 I’m currently working on **Predictive Maintenance Project**
-
-- 🌱 I’m currently learning **ELK Stack, Network Security**
-
-- 📫 How to reach me **geyumisrisara@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
