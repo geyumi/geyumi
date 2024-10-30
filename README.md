@@ -3,6 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geyumi&label=Profile%20views&color=0e75b6&style=flat" alt="geyumi" /> </p>
 
+<h3 align="left">🔭 Current Project</h3>
+<p>I’m currently working on <strong>Predictive Maintenance Project</strong>, which involves leveraging machine learning techniques to predict equipment failures.</p>
+
+<h3 align="left">🎓 Achievements</h3>
+<ul>
+    <li><strong>Microsoft Security, Compliance, and Identity Fundamentals</strong> - Completed certification</li>
+    <li><strong>GSSoC Badge</strong> - <a href="https://gssoc.girlscript.tech/leaderboard">Link to Badge</a></li>
+</ul>
+
+<h3 align="left">🌍 Language Proficiency</h3>
+<ul>
+    <li>English (Fluent)</li>
+    <li>Sinhala (Native)</li>
+    <li>Tamil (Basic)</li>
+</ul>
+
 - 🔭 I’m currently working on **Predictive Maintenance Project**
 
 - 🌱 I’m currently learning **ELK Stack, Network Security**
@@ -21,15 +37,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geyumi&show_icons=true&locale=en&layout=compact" alt="geyumi" /></p>
 
-<h3 align="left">Achievements</h3>
-<ul>
-<li><a href="https://www.coursera.org/account/accomplishments/verify/YFGTH4A9T6FG">AI Foundations for Everyone - Coursera</a></li>
-<li><a href="https://www.coursera.org/account/accomplishments/verify/BZZT2N2Z3D4A">Building AI Powered Chatbots Without Programming - Coursera</a></li>
-<li><a href="https://www.coursera.org/account/accomplishments/verify/7FZ4YXSAB6MC">Fundamentals of Predictive Project Management - PMI</a></li>
-<li><a href="https://www.coursera.org/account/accomplishments/verify/FRQX28S6WDYX">Microsoft Security, Compliance, and Identity Fundamentals - Coursera</a></li>
-<li><a href="https://www.coursera.org/account/accomplishments/verify/7DXY4LAXF2AC">Describe Microsoft Security, Compliance, and Identity Fundamentals - Coursera</a></li>
-<li><a href="https://www.coursera.org/account/accomplishments/verify/ZZTT92B7BF8L">Foundations of Project Management - University of Moratuwa</a></li>
-</ul>
 
 <details>	
  <summary><b>GSSOC Badges </b></summary><br>
